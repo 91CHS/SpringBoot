@@ -1,6 +1,6 @@
 # SpringBoot
 
-![image](https://github.com/91CHS/SpringBoot/assets/68048878/435c3e5a-4c91-41a5-9d12-b2a4f7f5ecf2)
+![image](https://github.com/91CHS/SpringBoot/assets/68048878/96d8a1a0-65af-489b-96bb-ec6bdf0f68a3)
 
 ✨스프링과 부트의 큰 차이점 5가지
 

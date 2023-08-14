@@ -27,5 +27,9 @@ info:
 logging:
   level:
     hello.controller: debug
-
+# 톰캣 메트릭을 모두 사용하기
+server:
+  tomcat:
+    mbeanregistry:
+      enabled: true
 

@@ -1,4 +1,6 @@
 management:
+  server:
+      port: 8080
   info:
     java:
       enabled: true
@@ -22,4 +24,12 @@ info:
     name: hello-actuator
     company: yh
 
+logging:
+  level:
+    hello.controller: debug
+# 톰캣 메트릭을 모두 사용하기
+server:
+  tomcat:
+    mbeanregistry:
+      enabled: true
 

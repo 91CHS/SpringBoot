@@ -1,14 +1,15 @@
 # SpringBoot
 
-![image](https://github.com/91CHS/Spring/assets/68048878/e0f47aaa-00a6-4c7e-9dd8-8d76bf3d102c)
-
 ![image](https://github.com/91CHS/SpringBoot/assets/68048878/96d8a1a0-65af-489b-96bb-ec6bdf0f68a3)
+
+![image](https://github.com/91CHS/SpringBoot/assets/68048878/8f67765f-3d9a-4b35-82f1-8314fbdbbcdb)
+
 
 ✨스프링과 부트의 큰 차이점 5가지
 
 1.WAS (내장서버)
 
-2.라이브러리관리 (쉬운 빌드와 버전관리)
+2.라이브러리 관리 (쉬운 빌드와 버전관리)
 
 3.자동구성 (빈 자동등록)
 
